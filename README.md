@@ -1,3 +1,3 @@
 # CspaceGame
 
-this game runs only on windows 
+a retro command line game for windows 
